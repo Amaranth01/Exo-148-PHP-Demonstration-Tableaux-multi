@@ -19,7 +19,7 @@ echo "$fruits<br>";
 print_r($fruits);
 echo '<br><br>';
 
-//----------------------------------------
+//----------------------------------------//
 
 echo 'Afficher un élément du tableau (l\'index d\'un tableau commence à 0)';
 echo '<br>';
